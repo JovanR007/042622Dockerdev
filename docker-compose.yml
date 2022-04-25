@@ -1,0 +1,12 @@
+version: '3.9'
+services:
+  docker-frontend: 
+    build:
+      context: MyAccess_Property
+      dockerfile: Dockerfile.dev
+    ports:
+      - '3004:3004'
+    volumes:
+      - ./MyAccess_Property/src:/frontend/src
+    
+    
