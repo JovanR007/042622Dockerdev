@@ -1,0 +1,3725 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* .sub-nav{
+    padding: 0 145px;
+    background: #483a49;
+    position: fixed;
+    top: 0;
+    padding-top: 80px;
+    width: 100%;
+    z-index: 3;
+} */
+/* .temp-nav{
+position: absolute;
+left: 0px;
+top: 0px;
+background: #483A49;
+}
+
+.text-1{
+font-family: 'New Rail Alphabet';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+/* or 125% */
+
+/* text-align: center; */
+
+/* Text - white */
+
+/* color: #FFFFFF;
+} */
+/* .line-1{
+position: absolute;
+width: 100%;
+height: 0px;
+left: 0px;
+top: 89.61px;
+border: 1px solid #CCBDCD;
+}
+
+.property-listing-box{
+position: absolute;
+width: 87.72px;
+height: 117.17px;
+left: 725.53px;
+
+background: rgba(255, 255, 255, 0.08);
+}
+.property-logo{
+position: absolute;
+width: 32px;
+height: 32px;
+align:center;
+top: 16.5px;
+}
+.property-nav{
+position: absolute;
+width: 100%;
+height: 117.85px;
+margin-top:1px;
+left: 0px;
+top: 90px;
+
+background: #483A49;
+}
+.stevenson-logo{
+position: absolute; 
+width: 39.59px;
+height: 41px;
+left: 43.87px;
+top: 26px;
+}
+
+.properties{
+position: absolute;
+width: 85px;
+height: 14px;
+left: 151.96px;
+top: 39px;
+}
+
+.orders{
+position: absolute;
+width: 55.3px;
+height: 14px;
+left: 242.91px;
+top: 39px;
+}
+
+.teams{
+position: absolute;
+width: 56.32px;
+height: 14px;
+left: 389.52px;
+top: 39px;
+}
+.reports{
+position: absolute;
+width: 64.52px;
+height: 14px;
+left: 311.4px;
+top: 39px;
+}
+
+.text-style{
+font-family: 'New Rail Alphabet';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 14px;
+text-align: center;
+color: #9C99A0;
+} */
+@import "~bootstrap/dist/css/bootstrap.css";
+@import "~font-awesome/css/font-awesome.css";
+
+/* .rectangle-136{
+position: absolute;
+width: 100%;
+height: 117.85px;
+left: 0px;
+top: 90px;
+background: #483A49
+}
+
+.rectangle-137{
+position:absolute;
+width: 87.72px;
+height: 117.17px;
+left: 811px;
+}
+.rectangle-137:hover{
+background: rgba(255, 255, 255, 0.08);
+}
+
+.rectangle-138{
+
+width: 87.72px;
+height: 117.17px;
+left: 900px;
+}
+
+.rectangle-138:hover{
+    background: rgba(255, 255, 255, 0.08);
+} */
+
+/* .property-listing{
+position: absolute;
+width: 51px;
+height: 30px;
+left:18px;
+top:55px;
+font-family: 'New Rail Alphabet';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+/* or 125% */
+/* text-align: center;
+color: #FFFFFF; */
+
+/* } */
+/* .img-container{
+position: absolute;
+width: 32px;
+height: 32px;
+left: 29px;
+top:15px;
+}
+
+.img-container-2{
+position: absolute;
+width: 32px;
+height: 32px;
+left: 29px;
+top:15px;
+} */
+
+ /* PROPERTIES CSS */
+/* .properties-text{
+position: absolute;
+width: 101px;
+height: 21px;
+left: 121.39px;
+top: 258.62px;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 21px;
+text-align: center;
+color: #000000;
+}
+
+.rectangle-78{
+position: absolute;
+width: 316.21px;
+height: 40px;
+left: 236.95px;
+top: 250.62px;
+border: 1px solid #B4B4B4;
+box-sizing: border-box;
+}
+
+.clearable__clear{  
+    position: absolute;
+    width: 10px;
+    height: 16px;
+    left: 532.39px;
+    top: 259.23px;
+    font-family: 'Font Awesome 5 Free';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 16px;
+    /* identical to box height */
+    /* text-align: center;
+    color: #000000;
+  } */ 
+
+    /*SEARCH BAR*/
+
+/* .rectangle-79{
+position: absolute;
+width: 662.94px;
+height: 40px;
+left: 124.39px;
+top: 350px;
+border: 1px solid #B4B4B4;
+box-sizing: border-box;
+} */
+
+
+/* .search-icon{
+    position: absolute;
+    height: 40px;
+    width: 120px;
+    left: 800.39px;
+    top: 350px;
+}
+
+.download-icon{
+    position: absolute;
+    width: 78px;
+    height: 40px;
+    left: 1500.39px;
+    top: 350px;
+}
+
+.show-results{
+position: absolute;
+width: 174px;
+height: 14px;
+left: 115.39px;
+top: 397.4px; */
+/* Body */
+/* font-family: 'New Rail Alphabet';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 14px;
+text-align: center;
+color: #000000;
+} */
+
+/* .search-x{
+position: absolute;
+width: 30px;
+height: 16px;
+left: 754.39px;
+top: 363.11px;
+font-family: 'Font Awesome 5 Free';
+font-style: normal;
+font-weight: bold;
+font-size: 19px;
+line-height: 16px; */
+/* identical to box height */
+
+/* text-align: center;
+
+color: #000000;
+}
+.btn {
+    text-align: center;
+    background-color: #483a49;
+    border: 0px;
+    color: white;
+    font-family: New Rail Alphabet;
+    font-size: 12px;
+    font: height 12px;
+    border-radius: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    box-shadow: none;
+    min-height: 40px;
+  }
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background-color: #483a49;
+  border: none;
+  box-shadow: none !important;
+} */
+
+
+
+
+/* Property Table */
+/* .property-table{
+position: absolute;
+width: 1200px;
+height: 14px;
+left: 125.39px;
+top: 440.4px;
+
+}
+.property-table-2{
+    position: absolute;
+    width: 1200px;
+    height: 14px;
+    left: 125.39px;
+    top: 600.4px;
+    }
+
+
+#tableHead {
+    background: #483a49;
+  }
+  #tableHead2 {
+    background: #483a49;
+  }
+  .tableIcon {
+    width: 16px;
+    height: 16px;
+    margin-top: 10px;
+  }
+  .tableIcon2 {
+    width: 16px;
+    height: 16px;
+  }
+  
+  table td {
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 14px;
+    height: 43px;
+    color: #483a49;
+  
+    vertical-align: middle;
+  }
+  
+  table th {
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 12px;
+    height: 43px;
+    color: #ffffff;
+    margin-right: 5px;
+  } */
+  
+  /* Used in Reports value opportunity page */
+  /* .table-no-side-border td:first-child {
+    border-right: none;
+  }
+  .table-no-side-border td:last-child {
+    border-left: none;
+  }
+  
+   */
+  /* Dark border color */
+  /* .border-top-dark td {
+    border-top: 1px solid #000000;
+  }
+  .border-bottom-0 td {
+    border-bottom: 1px solid #dee2e6;
+  }
+  .border-right-dark {
+    border-right: 1px solid #000000;  
+  }
+  @media only screen and (max-width: 991px) {
+    .border-md-right-dark-show {
+      border-right: 1px solid #000000;
+    }
+  }
+
+  table.table-bordered > thead > tr > th {
+    border: 1px solid transparent;
+  }
+
+  table th,
+td {
+  border-collapse: collapse;
+}
+
+table tr,
+td {
+  font-family: New Rail Alphabet;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 14px;
+  padding: 20px 10px !important;
+  
+}
+td:first-child {
+    height: inherit;
+  }
+
+
+  .thead-style {
+    background-color: #483a49;
+    color: white;
+    font-family: New Rail Alphabet;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 12px;
+    
+  }
+
+  p{
+      font-family: New Rail Alphabet;
+  } */
+
+  @font-face {
+    font-family: New Rail Alphabet;
+    src: url(./assets/fonts/NewRailAlphabet-White.otf);
+  }
+  @font-face {
+    font-family: New Rail Alphabet Light;
+    src: url(/assets/fonts/NewRailAlphabet-Light.otf);
+  }
+  @font-face {
+    font-family: New Rail Alphabet B;
+    src: url(./assets/fonts/NewRailAlphabet-Bold.otf);
+  }
+
+/* .fa, .far, .fas {
+    font-family: "Font Awesome 5 Free";
+} */
+
+  html {
+    height: 100%;
+    overflow-x: hidden;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .mr-3{
+    margin-right: 3%;
+  }
+  body {
+    min-width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    font-family: New Rail Alphabet Light !important;
+    font-weight: normal;
+  }
+  
+  @font-face {
+    font-family: New Rail Alphabet;
+    src: url(./assets/fonts/NewRailAlphabet-White.otf);
+  }
+  @font-face {
+    font-family: New Rail Alphabet B;
+    src: url(./assets/fonts/NewRailAlphabet-Bold.otf);
+  }
+  
+
+.table-text{
+width: 174px;
+height: 14px;
+font-family: 'New Rail Alphabet';
+font-style: normal;
+font-weight: 100;
+font-size: 9px;
+line-height: 14px;
+text-align: center;
+
+color: #000000;
+  }
+  
+  .navbar-toggler:focus,
+  .navbar-toggler:active,
+  .navbar-toggler-icon:focus {
+    outline: none;
+    box-shadow: none;
+  }
+  
+  /* breadcrumb */
+  .breadcrumb-text{
+    color: #B4B4B4;
+    font-size: 21px;
+  }
+  .breadcrumb-text .active{
+    color: #000000;
+  }
+  
+  /* Fonts */
+  .title-35 {
+    font-size: 35px;
+    font-weight: normal;
+  }
+  .p-24 {
+    font-size: 24px;
+  }
+  
+  /* Cards */
+  .card-shadow-box {
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  
+  /* Font Colors */
+  .color-success {
+    color: #008000;
+  }
+  /*dashboard.html SSI (updated)*/
+  #notificationInput{
+    width: 300px;
+    height: 35px;
+    background: #E5E5E5;
+  border: 1px solid rgba(72, 58, 73, 0.3);
+  box-sizing: border-box;
+   font-family: New Rail Alphabet;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 14px;
+  }
+  
+  .modalClose{
+    border: none;
+    background-color: transparent;
+    font-size: 15px;
+    color: #B4B4B4;
+  }
+  #notificationTitle{
+    
+  font-family: New Rail Alphabet;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 20px;
+  }
+  #notificationBtn{
+  width: 80px;
+  height: 35px;
+   font-family: New Rail Alphabet;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 12px;
+  text-align: center;
+  color: #FFFFFF;
+  }
+  #newCardSmall{
+    min-width: 200px;
+    height: 111px;
+    position: relative;
+  }
+  #red{
+    color: red;
+  }
+  #newCardBig{
+    height: 221px;
+    width: auto;
+  }
+  .twoColumns{
+    display: flex;
+  
+  }
+  .twoColumns > * {
+    flex-basis: 100%;
+  }
+  .twoColumns  p {
+    font-size: 12px;
+    line-height: 12px;
+    text-align: left;
+  }
+  #arrowDownUp{
+    width: 16px;
+    font-size: 29px;
+  }
+  #dashboardMainContainer{
+    display:flex;
+   justify-content: center;
+   
+  }
+  #newCardHeading{
+    font-size: 12px;
+    line-height: 12px;
+  }
+  
+  #configurationSelect{
+    width: auto;
+    border: 1px solid rgba(72, 58, 73, 0.3);
+  box-sizing: border-box;
+  border-radius: 5px!important;
+  font-family: New Rail Alphabet;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 14px;
+  height: 40px;
+  }
+  #editIcons {
+    font-size: 12px;
+    
+  }
+  
+  /*end of updated dashboard*/
+  .btn {
+    text-align: center;
+    background-color: #483a49;
+    border: 0px;
+    color: white;
+    font-family: New Rail Alphabet;
+    font-size: 12px;
+    font: height 12px;
+    border-radius: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    box-shadow: none;
+    min-height: 40px;
+  }
+  
+  .btn-40px{
+    width: 40px !important;
+    padding: 0 !important;
+  }
+  
+  .btn-primary,
+  .btn-primary:hover,
+  .btn-primary:focus,
+  .btn-primary:active:focus {
+    background-color: #483a49;
+    border: none;
+    box-shadow: none !important;
+  }
+  .btn-primary a,
+  .btn-primary a:hover {
+    color: #ffffff;
+  }
+  
+  .btn-inactive,
+  .btn-inactive:hover,
+  .btn-inactive:focus,
+  .btn-inactive:active:focus {
+    background: #e5e5e5 !important;
+    border: 0.5px solid #828282;
+    color: #d0d0d0;
+    box-shadow: none !important;
+  }
+  .btn-inactive a,
+  .btn-inactive a:hover {
+    color: #ffffff;
+  }
+  
+  .btn-white,
+  .btn-white:hover,
+  .btn-white:focus,
+  .btn-white:active:focus {
+    background: #ffffff;
+    border: none;
+    color: #212529;
+    box-shadow: none !important;
+  }
+  .btn-white a,
+  .btn-white a:hover {
+    color: #ffffff;
+  }
+  
+  .btn-dark,
+  .btn-dark:hover,
+  .btn-dark:focus,
+  .btn-dark:active:focus {
+    background: #212529;
+    border: none;
+    color: #ffffff;
+    box-shadow: none !important;
+  }
+  .btn-dark a,
+  .btn-dark a:hover {
+    color: #ffffff;
+  }
+  
+  .btn-black,
+  .btn-black:hover,
+  .btn-black:focus,
+  .btn-black:active:focus {
+    background: #323234 !important;
+    border: none;
+    color: #ffffff;
+    box-shadow: none !important;
+  }
+  .btn-black a,
+  .btn-black a:hover {
+    color: #ffffff;
+  }
+  
+  .btn-neutral,
+  .btn-neutral:hover,
+  .btn-neutral:focus,
+  .btn-neutral:active:focus {
+    background: #B4B4B4 !important;
+    border: none;
+    color: #ffffff;
+    box-shadow: none !important;
+  }
+  .btn-neutral a,
+  .btn-neutral a:hover {
+    color: #323234;
+  }
+  
+  .btn-back {
+    height: 24px;
+    margin: 0 10px;
+  }
+  
+  /* Text colors */
+  .error {
+    color: #c4354f;
+  }
+  .primary {
+    color: #483a49;
+  }
+  .neutral {
+    color: #b4b4b4;
+  }
+  .links {
+    color: #007bff;
+  }
+  #btnGreen {
+    width: 115px;
+    height: 40px;
+    background-color: #008000;
+  }
+  #memberModal p {
+    font-size: 14px;
+  }
+  /* Global input */
+  input,
+  select,
+  textarea {
+    border-radius: 0 !important;
+    font-family: New Rail Alphabet;
+  }
+  input:focus,
+  select:focus,
+  textarea:focus {
+    outline: none !important;
+    border: 1px solid #483a49 !important;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+  }
+  /*members table*/
+  .member-table-container {
+    margin: 40px auto 0;
+  }
+  .member-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  .member-table thead {
+    background-color: #483a49;
+    border: 1px solid rgba(180, 180, 180, 0.5);
+  }
+  .member-table thead tr th {
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 14px;
+    color: #ffffff;
+    letter-spacing: 0.35px;
+    padding: 10px;
+    text-align: left;
+    vertical-align: middle;
+    border: 1px solid rgba(180, 180, 180, 0.5);
+  }
+  .member-table tbody tr td {
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 14px;
+    text-align: center;
+    border: 1px solid rgba(180, 180, 180, 0.5);
+    color: #483a49;
+  }
+  #tableMarginTop {
+    margin-top: -4rem;
+  }
+  @media only screen and (max-width: 390px) {
+    .member-table thead {
+      display: none;
+    }
+  
+    #boldMediumScreen {
+      font-family: New Rail Alphabet;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 14px;
+      line-height: 14px;
+  
+      color: #000000;
+    }
+    .member-table thead tr th {
+      font-family: New Rail Alphabet;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 14px;
+      line-height: 14px;
+      color: #ffffff;
+      letter-spacing: 0.35px;
+      text-align: center;
+      vertical-align: middle;
+      border: 1px solid rgba(180, 180, 180, 0.5);
+    }
+    .member-table,
+    .member-table tbody,
+    .member-table tr,
+    .member-table td {
+      display: block;
+      width: 100%;
+    }
+    .member-table tr {
+      margin-bottom: 15px;
+  
+      position: relative;
+    }
+    .member-table tbody tr td {
+      text-align: right;
+  
+      padding-left: 50%;
+      position: relative;
+    }
+    .member-table td::before {
+      content: attr(data-label);
+      position: absolute;
+      left: auto;
+      width: 50%;
+      padding-left: 15px;
+      text-align: left;
+      font-family: New Rail Alphabet;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 14px;
+      line-height: 14px;
+  
+      color: #000000;
+    }
+  }
+  @media only screen and (max-width: 768px) {
+    .member-table thead {
+      display: none;
+    }
+    #boldMediumScreen {
+      font-family: New Rail Alphabet;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 14px;
+      line-height: 14px;
+      vertical-align: middle;
+      color: #000000;
+    }
+   
+    .member-table thead tr th {
+      font-family: New Rail Alphabet;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 14px;
+      line-height: 14px;
+      color: #ffffff;
+      letter-spacing: 0.35px;
+      text-align: left;
+      vertical-align: middle;
+      border: 1px solid rgba(180, 180, 180, 0.5);
+    }
+    .member-table,
+    .member-table tbody,
+    .member-table tr,
+    .member-table td {
+      display: block;
+      width: 100%;
+    }
+    .member-table tr {
+      margin-bottom: 15px;
+  
+      position: relative;
+    }
+    .member-table tbody tr td {
+      text-align: right;
+  
+      padding-left: 50%;
+      position: relative;
+    }
+    .member-table td::before {
+      content: attr(data-label);
+      position: absolute;
+      left: 50px;
+      width: 50%;
+      padding-left: 15px;
+      text-align: left;
+      font-family: New Rail Alphabet;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 14px;
+      line-height: 14px;
+  
+      color: #000000;
+    }
+  }
+  /*end of members table*/
+  .input-required {
+    border: solid 1px #008000;
+  }
+  #smallInput {
+    border-radius: 5px !important;
+    width: 140px;
+    height: 40px;
+    margin-left: 11px;
+    border: 1px solid rgba(72, 58, 73, 0.3);
+    box-sizing: border-box;
+    border-radius: 5px;
+  }
+  #smallInput :placeholder-shown {
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 14px;
+    text-align: center;
+    color: black;
+  }
+  
+  #inputNone {
+    border-radius: 5px !important;
+    width: 140px;
+    height: 40px;
+    margin-left: 11px;
+    border: 1px solid rgba(72, 58, 73, 0.3);
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-top: -5px;
+  }
+  
+  #inputNone :placeholder-shown {
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 14px;
+    text-align: center;
+    color: black;
+  }
+  
+  .divider {
+    border: 1px solid #e5e5e5;
+  }
+  /* End Global input */
+  /*Property Summary*/
+  #my-grid {
+    display: flex;
+    margin: auto;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  #my-grid-row {
+    width: 50%;
+  }
+  .input-property-summary-width {
+    width: 500px;
+  }
+  #property-row-header {
+    height: 59.27px;
+    background: #483a49;
+    align-items: center;
+  }
+  .line-height-text {
+    line-height: 15px;
+  }
+  #property-row-header p {
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 18px;
+    text-align: left;
+    color: #ffffff;
+  }
+  /*edit property summary html*/
+  .edit-property-table th {
+    min-height: 59.27px;
+    width: 540.92px;
+    background: #483a49;
+  }
+  .edit-property-table p {
+    margin-left: 1rem;
+    margin-top: 1rem;
+  }
+  .edit-property-table td {
+    padding: 10px !important;
+  }
+  .edit-property-table td > input:hover {
+    background-color: #bbb6bb;
+  }
+  #orderMarginTop {
+    margin-top: 0;
+  }
+  #secondRowLabel {
+    width: 125px;
+  }
+  #dateInput {
+    width: 390px;
+    margin-left: 12px;
+  }
+  #addOwner {
+    margin-left: 0.7rem;
+    margin-top: -10px;
+    margin-bottom: 0.5rem;
+    padding: 10px 50px 10px 50px;
+  }
+  #noneInput {
+    width: 140.79px;
+    height: 40px;
+    background: #e5e5e5;
+    border: 1px solid #ced4da;
+    box-sizing: border-box;
+    border-radius: 5px !important;
+  }
+  #secondCellWidth {
+    width: 50px;
+  }
+  #firstCellWidth {
+    width: 130px;
+  }
+  
+  .edit-summary-input {
+    width: 400px;
+  }
+  
+  /*end of edit property summary*/
+  
+  /*STACKING PLAN*/
+  
+  /*END OF STACKING PLAN*/
+  #stackingPlanInput {
+    width: 100%;
+    margin-left: -3rem;
+  }
+  .right-indent-property1 {
+    margin-right: 0.8rem;
+  }
+  .right-indent-property {
+    margin-right: -0.8rem;
+  }
+  .icon-size {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  .side-text {
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 12px;
+    text-align: left;
+  }
+  .move-right {
+    margin-right: -2rem;
+  }
+  #leftRow {
+    max-width: 50%;
+  }
+  #leftRow p {
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 14px;
+  }
+  #rightRow {
+    max-width: 50%;
+  }
+  #rightRow p {
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 14px;
+  }
+  .propertySummmaryHeading {
+    background-color: #483a49;
+    height: 60px;
+  }
+  .propertySummmaryHeading p {
+    color: white;
+  }
+  .blue {
+    color: #007bff;
+  }
+  .blue-bg {
+    background-color: #007bff;
+  }
+  .tuscany {
+    background: #cda194;
+  }
+  .grn {
+    color: #008000;
+  }
+  .card-white-font {
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 10px;
+    line-height: 10px;
+    margin-top: 10px;
+    text-align: center;
+    max-width: 132px;
+    min-width: 27px;
+    color: #ffffff;
+  }
+  .half-hr-center {
+    width: 60%;
+  
+    margin: auto;
+  }
+  .normal {
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 12px;
+    text-align: center;
+  }
+  #secondContainer1 {
+    margin-top: 5rem;
+  }
+  .stackCard1 {
+    min-height: 80px;
+    max-height: 80px;
+    border-radius: 0px;
+    flex-basis: 60px;
+  }
+  .grow0 {
+    flex-grow: 0;
+  }
+  .grow1 {
+    flex-grow: 1;
+  }
+  .grow2 {
+    flex-grow: 2;
+  }
+  .grow3 {
+    flex-grow: 3;
+  }
+  .grow4 {
+    flex-grow: 4;
+  }
+  .grow5 {
+    flex-grow: 5;
+  }
+  .grow6 {
+    flex-grow: 6;
+  }
+  .grow7 {
+    flex-grow: 7;
+  }
+  .grow8 {
+    flex-grow: 8;
+  }
+  .shrink {
+    flex-shrink: 1;
+  }
+  .stack-card-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  .flex-container-stacking {
+    display: flex;
+    margin: 51px 129px 107px 129px;
+  }
+  .check-text {
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 12px;
+    text-align: center;
+  }
+  .normal-text {
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 12px;
+    text-align: center;
+  }
+  .padded-text {
+    padding: 10px 25px 10px 25px;
+  
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 12px;
+    text-align: center;
+    color: white;
+  }
+  
+  #displayBlock {
+    display: block;
+  }
+  .orchid-pink {
+    background: #f5bbcc;
+  }
+  .lilac {
+    background: #bbaacc;
+  }
+  .ellie {
+    background: #74bbee;
+  }
+  .azure {
+    background: #007bff;
+  }
+  .chinese-blue {
+    background-color: #445599;
+  }
+  .brown-card {
+    background: #885555;
+  }
+  .shiny-rose-gold {
+    background: #bb99aa;
+  }
+  .rose-gold {
+    background-color: #aa6677;
+  }
+  .arylide-yellow {
+    background: #eed374;
+  }
+  .jacarta {
+    background: #443355;
+  }
+  .radio-container {
+    position: relative;
+  }
+  .radio-image {
+    display: block;
+    margin: auto;
+    width: 226px;
+    height: 75px;
+  }
+  .modal-xl {
+    max-width: 80% !important;
+  }
+  #stackingModalTitle {
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 20px;
+  }
+  /*members.html
+  */
+  #upperSectionContainer {
+    min-height: 55px;
+  }
+  #submitBtnInvite {
+    padding-left: 46px;
+    padding-right: 46px;
+  }
+  #modalInviteLabel {
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 14px;
+    color: #000000;
+  }
+  #modalHeaderTitle {
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 21px;
+    text-align: center;
+    color: #000000;
+  }
+  #inputMemberIndent {
+    margin-left: -2rem;
+  }
+  #smallBtn {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+  #redBtn {
+    padding: 10px 20px 10px 20px;
+    background: #c4354f;
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+  }
+  
+  #memberInputBorder4 {
+    min-width: 250px;
+  }
+  #horizontalDivider {
+    width: 100%;
+  }
+  #memberDetailLabel {
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+  
+    color: #000000;
+  }
+  .green-button {
+    background: #008000;
+    font-family: Maison Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 14px;
+    padding-top: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 1rem;
+    text-align: center;
+    color: #ffffff;
+  }
+  #redTimes {
+    color: red;
+    padding-left: 11px;
+  }
+  
+  #timesIndent1 {
+    margin-left: -20px;
+  }
+  #whiteFont {
+    color: white;
+  }
+  .resend-button {
+    text-align: center;
+    background-color: #483a49;
+    border: 0px;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-family: New Rail Alphabet;
+    font-size: 12px;
+    border-radius: 0px;
+    box-shadow: none;
+  }
+  #btnResendInvites {
+    width: 100px;
+    height: 20px;
+    background: #483a49;
+  }
+  /**/
+  #buttonTextPills {
+    color: white;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: 500;
+  }
+  #iconPills {
+    font-size: 32px;
+    color: #99959d;
+  }
+  #pills-tabContent {
+    height: auto;
+  }
+  #pills-tab {
+    background-color: #483a49;
+    height: auto;
+    border-top: 1px solid #ccbdcd;
+  }
+  #pills-home-tab.nav-link.active {
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 0px;
+  }
+  #pills-profile-tab.nav-link.pt-lg-3.active {
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 0px;
+  }
+  #memberInputBorder2 {
+    border: 1px solid #b4b4b4;
+    box-sizing: border-box;
+    background-color: white;
+    border-radius: 0px;
+    width: 560px;
+  }
+  .input-summary-width {
+    width: 500px;
+  }
+  #memberInputBorder {
+    min-width: 235px;
+    margin-left: -20px;
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+  
+    color: #000000;
+  }
+  #firstMemberContainer {
+    margin-top: 65px;
+  }
+  
+  #searchBoxActiveMembers {
+    background-color: white;
+    margin-left: -3rem;
+  }
+  #searchBoxActiveMembers2 {
+    margin-left: -15px;
+  }
+  #memberButtonIcon {
+    background: #483a49;
+  }
+  #memberList {
+    font-family: New Rail Alphabet;
+    font-style: bold;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 16px;
+    margin-top: 15px;
+  }
+  #tableHead {
+    background: #483a49;
+  }
+  #tableHead2 {
+    background: #483a49;
+  }
+  .tableIcon {
+    width: 16px;
+    height: 16px;
+    margin-top: 10px;
+  }
+  .tableIcon2 {
+    width: 16px;
+    height: 16px;
+  }
+  
+  table td {
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 14px;
+    height: 43px;
+    color: #483a49;
+  
+    vertical-align: middle;
+  }
+  
+  table th {
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 12px;
+    height: 43px;
+    color: #ffffff;
+    margin-right: 5px;
+  }
+  
+  /* Used in Reports value opportunity page */
+  .table-no-side-border td:first-child {
+    border-right: none;
+  }
+  .table-no-side-border td:last-child {
+    border-left: none;
+  }
+  
+  
+  /* Dark border color */
+  .border-top-dark td {
+    border-top: 1px solid #000000;
+  }
+  .border-bottom-0 td {
+    border-bottom: 1px solid #dee2e6;
+  }
+  .border-right-dark {
+    border-right: 1px solid #000000;  
+  }
+  @media only screen and (max-width: 991px) {
+    .border-md-right-dark-show {
+      border-right: 1px solid #000000;
+    }
+  }
+  
+  #memberResults {
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 14px;
+  
+    color: #000000;
+  }
+  .alignRight {
+    margin-right: -4rem;
+  }
+  
+  .buttonIconPill {
+    height: 35px;
+    width: auto;
+    margin-top: 10px;
+  }
+  .imgIcons {
+    height: 18px;
+    width: 18px;
+  }
+  .iconBtn {
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    background-color: #483a49;
+    border: 0px;
+    color: white;
+    font-size: 15px;
+    font: height 15px;
+    border-radius: 0px;
+  }
+  
+  /*end of members.html*/
+  
+  .my-flex-container {
+    border: 2px solid red;
+  }
+  .dropdown {
+    position: inherit;
+  }
+  .dropdown-item {
+    color: #ccbdcd;
+  }
+  .dropdown-menu {
+    border: solid 1px #ccbdcd;
+  }
+  .dropdown-menu > li > a:hover {
+    background-color: #483a49;
+    color: #9c99a0;
+  }
+  .dropdown-divider {
+    background-color: #ccbdcd;
+  }
+  #portfolioHeading {
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 14px;
+    color: #000000;
+  }
+  
+  .nav-link {
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 14px;
+    text-align: center;
+    border-radius: 0 !important;
+  }
+  .nav-item {
+    margin-inline: 13px;
+  }
+  
+  .navbar {
+    width: 100%;
+    height: 90px;
+    background: #483a49;
+  }
+  
+  /* Buttons */
+  
+  .btn {
+    text-align: center;
+    background-color: #483a49;
+    border: 0px;
+    color: white;
+    font-family: New Rail Alphabet;
+    font-size: 12px;
+    font: height 12px;
+    border-radius: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  */
+  
+  /*card text columns*/
+  #column {
+    flex: 50%;
+    padding: 10px;
+  }
+  /*Descriptions of dashboard cards*/
+  #cardContents {
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 20px;
+    padding: 10px;
+  }
+  .round-button {
+    text-align: center;
+    align-self: center;
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    border: 1px solid #9c99a0;
+  }
+  /*To remove carret icon in dropdown*/
+  .dropdown-toggle::after {
+    display: none;
+  }
+  /*background of dropdown*/
+  .dropdown-menu.show {
+    background-color: #483a49;
+    border-radius: 0%;
+    color: #9c99a0;
+    display: block;
+    position: relative;
+    margin-top: 0;
+  }
+  
+  .dropdown-menu ul {
+    display: block;
+  }
+  
+  .navbar-toggler {
+    border: 0px;
+  }
+  
+  /*titles of large cards*/
+  #cardTitle {
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 12px;
+    text-align: left;
+    color: #212529;
+  }
+  .card-title {
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 12px;
+    text-align: center;
+    color: #212529;
+  }
+  .card-border {
+    border-radius: 0px;
+    width: 220 px;
+    height: 112px;
+  } 
+  /*large dashboard cards*/
+  #dashboardMainBody{
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  #dashboardMainSide{
+    background: #483A49;
+    color: #FFFFFF;
+    height: auto;
+  }
+  #dashboardMainSide .sidebar-card{
+    background: #FFFFFF;
+    color: #000000;
+  }
+  #dashboardMainSide .sidebar-card img{
+    max-height: 60px;
+  }
+  #dashboardMainSide .sidebar-card span:first-child{
+    font-size: 18px;
+  }
+  #dashboardCards {
+    border-radius: 0px;
+    height: 230px;
+    overflow-y: auto;
+    margin: auto;
+  }
+  #dashboardNumbers {
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 40px;
+    text-align: center;
+    color: #212529;
+    align-self: center;
+  }
+  #secondBtnMargin {
+    margin-left: -1rem;
+  }
+  #topSectionBorder {
+    border-radius: 0px;
+    border: 1px solid #aaaaaa;
+    box-sizing: border-box;
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+  .testd {
+    z-index: -1;
+  }
+  .testF {
+    flex-basis: 100%;
+    flex-grow: 1;
+    align-items: center;
+    z-index: 1;
+  }
+  #leftColumnText {
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 20px;
+    padding: 10px;
+    margin-left: 30px;
+  }
+  #rightColumnText {
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 20px;
+    padding: 10px;
+    margin-left: 20px;
+  }
+  
+  /*hide upper section*/
+  
+  /*tablet design*/
+  @media only screen and (max-width: 768px) {
+    .flex-container-stacking {
+      display: flex;
+      margin: 28px 34px 70px 34px;
+    }
+  
+    #redTimes {
+      color: red;
+      padding-left: 2px;
+    }
+    .line-height-text {
+      line-height: auto;
+      font-size: 14px;
+    }
+    #addOwner {
+      margin-left: 6.5rem;
+      margin-top: -10px;
+      margin-bottom: 0.5rem;
+      padding: 10px 50px 10px 50px;
+    }
+    #md-text {
+      font-size: 13px;
+      line-height: 13px;
+    }
+    #modalHeaderTitle {
+      font-family: New Rail Alphabet;
+      font-style: normal;
+      font-weight: 300;
+      font-size: 18px;
+      line-height: 18px;
+      text-align: left;
+      color: #000000;
+    }
+    .check-size {
+      width: 10px;
+      height: 10px;
+    }
+    .normal-text {
+      font-family: New Rail Alphabet;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 10px;
+      line-height: 10px;
+      text-align: center;
+    }
+    .padded-text {
+      padding: 10px 14px 10px 14px;
+  
+      font-family: New Rail Alphabet;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 12px;
+      line-height: 12px;
+      text-align: center;
+      color: white;
+    }
+    #stackCard {
+      height: 70px;
+      border-radius: 0px;
+    }
+    .card-white-font {
+      font-family: New Rail Alphabet;
+      font-style: normal;
+      font-weight: 300;
+      font-size: 7px;
+      line-height: 7px;
+      margin-top: 10px;
+      text-align: center;
+      color: #ffffff;
+    }
+    
+    .side-text {
+      font-family: New Rail Alphabet;
+      font-style: normal;
+      font-weight: 300;
+      font-size: 12px;
+      line-height: 12px;
+      text-align: left;
+      margin-left: -1rem;
+    }
+    #buttonTextPills {
+      color: white;
+      font-size: 10px;
+      line-height: 10px;
+      text-align: center;
+      font-family: New Rail Alphabet;
+      font-style: normal;
+      font-weight: 500;
+      margin-top: 1rem;
+    }
+    .radio-image {
+      display: block;
+      margin: auto;
+      width: 126px;
+      height: 30px;
+    }
+    .accordion-body {
+      background: #f5f5f5;
+    }
+    #accordionHead {
+      background: #483a49;
+      min-height: 61px;
+    }
+    #accordionIcon {
+      color: white;
+      font-size: 18px;
+      font-weight: bold;
+    }
+    #accordionIcon1 {
+      font-size: 18px;
+      font-weight: bold;
+    }
+    #bgColor {
+      background: #f5f5f5;
+      border: 1px solid #b4b4b4;
+      text-align: center;
+      min-height: 61px;
+    }
+    .accordionTextBold {
+      font-weight: bold;
+      font-size: 15px;
+      font-family: New Rail Alphabet;
+      font-style: normal;
+      text-align: start;
+      justify-content: center;
+      margin-top: 1rem;
+    }
+    #memberInputBorder2 {
+      border: 1px solid #b4b4b4;
+      box-sizing: border-box;
+      background-color: white;
+      border-radius: 0px;
+      width: 350px;
+    }
+    #searchBoxActiveMembers {
+      background-color: white;
+    }
+    #stackingPlanInput {
+      width: 100%;
+      margin-left: auto;
+    }
+    #memberInputBorder {
+      min-width: 570px;
+      margin-left: -20px;
+      font-family: New Rail Alphabet;
+      font-style: normal;
+      font-weight: 300;
+      font-size: 14px;
+  
+      color: #000000;
+    }
+    #cardTitle {
+      font-family: New Rail Alphabet;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 13px;
+      line-height: 13px;
+      text-align: left;
+      color: #212529;
+    }
+    #navbarSupportedContent {
+      background-color: #483a49;
+      display: none;
+      position: absolute;
+      z-index: 101;
+      right: 0;
+      margin-top: 19.3rem !important;
+    }
+  
+    #firstContainer {
+      margin-top: 1rem;
+    }
+    #secondContainer {
+      margin-top: 1rem;
+      margin-bottom: 5rem;
+    }
+  
+    #leftColumnText {
+      font-family: New Rail Alphabet;
+      font-style: normal;
+      font-weight: 300;
+      font-size: 13px;
+      line-height: 13px;
+      padding: 10px;
+      margin-left: 0px;
+    }
+    #rightColumnText {
+      font-family: New Rail Alphabet;
+      font-style: normal;
+      font-weight: 300;
+      font-size: 13px;
+      line-height: 13px;
+      padding: 10px;
+      margin-left: 0px;
+    }
+    .dropdown-menu.show {
+      background-color: #483a49;
+      border-radius: 0%;
+      color: #9c99a0;
+      display: block;
+    }
+    .dropdown-item {
+      color: #ccbdcd;
+      padding-top: 9px;
+      padding-bottom: 9px;
+    }
+    .mobile-icons {
+      margin-top: 5px;
+    }
+    .nav-link {
+      padding-bottom: 10px;
+    }
+    .nav-link i {
+      font-size: 24px;
+    }
+    .dropdown-menu a {
+      font-family: New Rail Alphabet;
+      font-style: normal;
+      font-weight: 300;
+      font-size: 14px;
+      line-height: 14px;
+      text-align: center;
+      text-align: center;
+      color: #cccccc;
+    }
+  
+    .dropdown-menu.show {
+      z-index: 100;
+      position: absolute;
+      margin-top: 0;
+    }
+  }
+  /*Member.html*/
+  
+  /*end of member.html*/
+  /*mobile design*/
+  @media only screen and (max-width: 390px) {
+    .right-small-column {
+      width: 200px;
+      margin-top: 10px;
+      margin-bottom: 8px;
+    }
+    .form-select {
+      width: 100%;
+    }
+    #inputSize {
+      width: 177px;
+    }
+  
+    #inputMemberIndent {
+      margin-left: 0;
+    }
+    #redTimes {
+      color: red;
+      padding-left: 2px;
+    }
+    #dateInput {
+      margin-right: 0.8rem;
+      max-width: 155px;
+      height: 40px;
+    }
+  
+    #addOwner {
+      margin-left: 8.8rem;
+      margin-top: -10px;
+      margin-bottom: 0.5rem;
+      padding: 10px 50px 10px 50px;
+    }
+    #md-text {
+      font-size: 14px;
+      line-height: 14px;
+    }
+    #smallInput {
+      border-radius: 5px !important;
+      width: 90px;
+      height: 40px;
+      margin-left: -1rem;
+      border: 1px solid rgba(72, 58, 73, 0.3);
+      box-sizing: border-box;
+      border-radius: 5px;
+    }
+    #smallInput :placeholder-shown {
+      font-family: New Rail Alphabet;
+      font-style: normal;
+      font-weight: 300;
+      font-size: 10px;
+      line-height: 10px;
+      text-align: center;
+      color: black;
+    }
+    .smallColumn {
+      width: 131px;
+    }
+    .smallColumn1 {
+      width: 100px;
+    }
+    .mrgnTop {
+      margin-top: 1rem;
+    }
+    .input-property-summary-width {
+      width: 180px;
+    }
+    #property-row-header {
+      height: 59.27px;
+      background: #483a49;
+      align-items: center;
+      max-width: 336px;
+      margin-top: 2rem;
+    }
+  
+    #property-row-header p {
+      font-family: New Rail Alphabet;
+      font-style: normal;
+      font-weight: 300;
+      font-size: 18px;
+      line-height: 18px;
+      text-align: left;
+      color: #ffffff;
+      margin-top: 1.3rem;
+    }
+  
+    #my-grid-row {
+      width: 100%;
+    }
+  
+    #pills-tabContent {
+      height: auto;
+      margin-bottom: 200px;
+    }
+    .side-text {
+      font-family: New Rail Alphabet;
+      font-style: normal;
+      font-weight: 300;
+      font-size: 10px;
+      line-height: 10px;
+      text-align: left;
+      margin-left: 2px;
+      margin-top: 10px;
+    }
+    .stackCard1 {
+      height: 85px;
+  
+      border-radius: 0px;
+      flex-basis: 24px;
+    }
+    #stackingPlanInput {
+      width: 100%;
+      margin-left: auto;
+    }
+    .first-order {
+      order: 1;
+    }
+    .second-order {
+      order: 2;
+    }
+    .third-order {
+      order: 3;
+    }
+    .fourth-order {
+      order: 4;
+    }
+    .fifth-order {
+      order: 5;
+    }
+  
+    #orderMarginTop {
+      margin-top: 1rem;
+    }
+    #orderNegativeMargin {
+      margin-top: -1rem;
+    }
+    .flex-container-stacking {
+      display: flex;
+      margin: 10px 18px 55px 18px;
+    }
+    .move-right {
+      margin-right: -1rem;
+    }
+    .dropdown-menu.show {
+      background-color: #483a49;
+      border-radius: 0%;
+      color: #9c99a0;
+      display: block;
+    }
+    .mobile-stacking {
+      min-height: 2100px;
+    }
+    #stackCard {
+      min-height: 70px;
+      max-height: 80px;
+      border-radius: 0px;
+    }
+    .card-white-font {
+      font-family: New Rail Alphabet;
+      font-style: normal;
+      font-weight: 300;
+      font-size: 8px;
+      line-height: 8px;
+      margin-top: 10px;
+      text-align: center;
+      max-width: 50px;
+      min-width: 10px;
+      color: #ffffff;
+      word-wrap: break-word;
+    }
+    .text-sm-width {
+      max-width: 20px;
+      min-width: 10px;
+      font-size: 7px;
+    }
+  
+    #secondContainer1 {
+      width: 350px;
+    }
+    #secondContainer2 {
+      width: 350px;
+    }
+  
+    #title-sm-font {
+      font-family: New Rail Alphabet;
+      font-style: normal;
+      font-weight: 300;
+      font-size: 21px;
+      line-height: 21px;
+    }
+  
+    .modal-xl {
+      max-width: 90% !important;
+      margin: auto;
+    }
+    .radio-image {
+      width: 130px;
+      height: 45px;
+      margin-bottom: 8px;
+      margin-top: 3rem;
+    }
+    #accordionHead {
+      background: #483a49;
+      min-height: 40px;
+    }
+    #memberResults {
+      font-family: New Rail Alphabet;
+      font-style: normal;
+      font-weight: 300;
+      font-size: 14px;
+      margin-top: -1.5rem;
+      margin-left: 1rem;
+      color: #000000;
+    }
+    .indentSmallBtn {
+      margin-left: -1.5rem;
+    }
+    .indentSmallBtn1 {
+      margin-left: -0.5rem;
+    }
+    #smallBtn {
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 40px;
+      padding-right: 40px;
+    }
+    #searchBoxActiveMembers2 {
+      margin-left: none;
+    }
+    #memberInputBorder2 {
+      border: 1px solid #b4b4b4;
+      box-sizing: border-box;
+      background-color: white;
+      border-radius: 0px;
+      width: 280px;
+      margin-left: 1.3rem;
+    }
+    .iconBtn {
+      text-align: center;
+      background-color: #483a49;
+      border: 0px;
+      color: white;
+      font-size: 15px;
+  
+      border-radius: 0px;
+    }
+    #searchBoxActiveMembers {
+      background-color: white;
+      margin: auto;
+    }
+    .mobile-text-indent {
+      margin-left: 1rem;
+      margin-top: 1rem;
+    }
+    #memberInputBorder {
+      min-width: 340px;
+      font-family: New Rail Alphabet;
+      font-style: normal;
+      font-weight: 300;
+      font-size: 14px;
+  
+      margin: auto;
+      color: #000000;
+    }
+    #dashboardCards {
+      border-radius: 0px;
+      height: 230px;
+      overflow-y: auto;
+      width: 340px;
+      margin: auto;
+    }
+    #cardMargin {
+      margin: auto;
+    }
+    .card #cardMargin{
+      border-radius: 0;
+    }
+    #portfolioHeading {
+      font-family: New Rail Alphabet;
+      font-style: normal;
+      font-weight: 300;
+      font-size: 14px;
+      line-height: 14px;
+      color: #000000;
+      margin-top: 1rem;
+    }
+  
+    #modalInviteLabel {
+      font-family: New Rail Alphabet;
+      font-style: normal;
+      font-weight: 300;
+      font-size: 14px;
+      line-height: 14px;
+      color: #000000;
+      margin-top: 10px;
+    }
+    #leftColumnText {
+      font-family: New Rail Alphabet;
+      font-style: normal;
+      font-weight: 300;
+      font-size: 12px;
+      line-height: 20px;
+      padding: 10px;
+      margin-left: 0px;
+    }
+    #rightColumnText {
+      font-family: New Rail Alphabet;
+      font-style: normal;
+      font-weight: 300;
+      font-size: 12px;
+      line-height: 20px;
+      padding: 10px;
+      margin-left: 10px;
+    }
+  
+    .dropdown-item {
+      color: #ccbdcd;
+      padding-top: 9px;
+      padding-bottom: 9px;
+    }
+    .mobile-icons {
+      margin-top: 5px;
+    }
+    .nav-link {
+      padding-bottom: 10px;
+    }
+    .nav-link i {
+      font-size: 24px;
+    }
+    #firstContainer {
+      margin-top: 20px;
+    }
+    #secondContainer {
+      margin-top: 30px;
+      margin-bottom: 2rem;
+    }
+    #smallNavLogo {
+      margin-left: 20px;
+    }
+  
+    #navbarSupportedContent {
+      background-color: #483a49;
+      display: none;
+      position: absolute;
+      z-index: 101;
+      right: 0;
+      margin-top: 19.3rem !important;
+    }
+  
+    .card-border {
+      border-radius: 0px !important;
+      width: 337px;
+      height: 123px;
+    }
+  
+    #support {
+      display: none;
+    }
+    #column {
+      flex: 50%;
+      padding: 10px;
+    }
+    /*Descriptions of dashboard cards*/
+    #cardContents {
+      font-family: New Rail Alphabet;
+      font-style: normal;
+      font-weight: 300;
+      font-size: 12px;
+      line-height: 20px;
+      padding: 10px;
+    }
+    /*small account dropdown*/
+    .dropdown-menu.show ul {
+      background-color: #483a49;
+      border-radius: 0%;
+    }
+    .navbar-toggler {
+      border: 0px;
+    }
+    .dropdown-menu a {
+      font-family: New Rail Alphabet;
+      font-style: normal;
+      font-weight: 300;
+      font-size: 14px;
+      line-height: 14px;
+      text-align: center;
+      text-align: center;
+      color: #cccccc;
+    }
+  
+    .dropdown-menu.show {
+      z-index: 100;
+      position: absolute;
+      margin-top: 0;
+    }
+  }
+  /*end of mobile elements*/
+  /*for testing containers, I'll delete this soonest*/
+  .red {
+    background-color: red;
+  }
+  
+  .customized_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 43.87px;
+  }
+  
+  /* Nav section */
+  .customized_nav_color {
+    background-color: #483a49;
+    height: 90px;
+  }
+  /* Welcome message style */
+  #custom_welcome_message p {
+    font-size: 14px;
+    font-weight: 300;
+    font-family: New Rail Alphabet;
+  }
+  
+  /* End Welcome message style */
+  
+  /* Form Styles */
+  .form-control {
+    height: 40px;
+  }
+  .form-header {
+    margin-top: 80px;
+    margin-bottom: 50px;
+  }
+  
+  .form-header h4 {
+    text-align: left;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 31px;
+    font-family: New Rail Alphabet;
+  }
+  
+  /* Form  upload drop files */
+  .upload-drop-files {
+    color: #ccc;
+    border: 1px dashed rgba(72, 58, 73, 0.3);
+    line-height: 200px;
+    text-align: center;
+  }
+  
+  /* Move icon inside the input field */
+  .input-icon {
+    position: absolute;
+    right: 0;
+    margin-right: 20px;
+  }
+  
+  .confirmBtn {
+    width: 150px;
+    height: 40px;
+    background-color: #d0d0d0;
+    border: none;
+    color: #ffffff;
+    font-family: New Rail Alphabet;
+    cursor: pointer;
+  }
+  .forget-password {
+    border: none;
+    background-color: white;
+    font-family: New Rail Alphabet;
+  }
+  .loginBtn,
+  .cancelBtn {
+    width: 150px;
+    height: 40px;
+    background-color: #483a49 !important;
+    border-radius: 0 !important;
+    color: #ffffff !important;
+    font-family: New Rail Alphabet;
+  }
+  .loginBtn a {
+    color: #ffffff;
+  }
+  .loginBtn a:hover {
+    color: #ffffff;
+  }
+  
+  /* a {
+    color: #ffffff !important;
+    font-family: New Rail Alphabet;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+  } */
+  
+  .loginReminder p {
+    font-size: 14px;
+    line-height: 14px;
+    font-family: New Rail Alphabet;
+    font-weight: 300;
+  }
+  .companyImages {
+    margin-top: 79px;
+    margin-bottom: 56px;
+  }
+  
+  #customized_button_login {
+    font-size: 14px;
+    line-height: 14px;
+  }
+  /* MODAL CUSTOM STYLES */
+  
+  .close-modal {
+    background-color: #483a49 !important;
+    width: 135.38px;
+    height: 40px;
+    font-family: New Rail Alphabet;
+    font-size: 14px;
+    line-height: 14.13px;
+    color: white !important;
+    border-radius: 0 !important;
+  }
+  .confirm-modal {
+    background-color: #483a49 !important;
+    width: 152.58px;
+    height: 40px;
+    font-family: New Rail Alphabet;
+    font-size: 14px;
+    line-height: 14.13px;
+    color: white !important;
+    border-radius: 0 !important;
+  }
+  /* END MODAL CUSTOM STYLES */
+  
+  /* End Form Styles */
+  
+  /* Two Factor Auth Styles */
+  .first-step-auth h5 {
+    font-size: 21px;
+    font-weight: bold;
+    font-family: New Rail Alphabet;
+  }
+  .reminder-text {
+    width: 708px;
+  }
+  .reminder-text h1 {
+    font-size: 18px;
+    font-family: New Rail Alphabet;
+    font-weight: bold;
+  }
+  .reminder-text p {
+    font-size: 14px;
+    text-align: left;
+    font-family: New Rail Alphabet;
+    line-height: 14px;
+    font-weight: 300;
+  }
+  .first-auth-text-msg,
+  .second-auth-email {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+  }
+  .first-auth-text-msg,
+  .second-auth-email span {
+    line-height: 15px;
+    font-weight: bold;
+    font-size: 14px;
+    font-family: New Rail Alphabet;
+    color: #212529;
+  }
+  .two-factor-auth-options {
+    padding-left: 1.5rem;
+  }
+  
+  .send-code-btn {
+    width: 150px;
+    height: 40px;
+    background-color: #483a49 !important;
+    border: none;
+    color: #ffffff !important;
+    font-family: New Rail Alphabet !important;
+    border-radius: 0 !important;
+    margin-right: 2.5px;
+  }
+  
+  .cancel-code-btn {
+    width: 150px;
+    height: 40px;
+    background-color: transparent !important;
+    border: none;
+    color: #212529;
+    border: 1px solid #b4b4b4 !important;
+    font-family: New Rail Alphabet !important;
+    border-radius: 0 !important;
+    margin-left: 2.5px;
+  }
+  .code-buttons {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    margin-top: 35px;
+    margin-bottom: 100px;
+  }
+  
+  /* second step auth */
+  .second-step-auth {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  
+  .second-step-auth h5 {
+    font-size: 21px;
+    font-weight: bold;
+    font-family: New Rail Alphabet;
+  }
+  .remember-me span {
+    font-family: New Rail Alphabet;
+    font-size: 14px;
+    font-weight: 300;
+  }
+  
+  .sent-to {
+    margin-bottom: 2rem;
+  }
+  .sent-to p {
+    font-size: 14px;
+    text-align: left;
+    font-family: New Rail Alphabet;
+    line-height: 14px;
+    font-weight: 300;
+  }
+  
+  .confirmation-code input {
+    font-size: 14px;
+    text-align: left;
+    font-family: New Rail Alphabet;
+    line-height: 19px;
+    font-weight: 300;
+  }
+  
+  .continue-btn {
+    width: 150px;
+    height: 40px;
+    font-size: 14px;
+    font-family: New Rail Alphabet;
+    background-color: #483a49 !important;
+    color: white !important;
+    margin-right: 15px;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+  }
+  
+  .resend-btn {
+    width: 181px;
+    height: 40px;
+    font-size: 14px;
+    font-family: New Rail Alphabet;
+    background-color: transparent !important;
+    border: 1px solid #b4b4b4 !important;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+    color: #483a49 !important;
+    margin: 0;
+    margin-left: 2rem;
+  }
+  .cancel-btn {
+    width: 117px;
+    height: 40px;
+    font-size: 14px;
+    font-family: New Rail Alphabet;
+    background-color: transparent !important;
+    border: 1px solid #b4b4b4 !important;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+    color: #483a49 !important;
+    margin: 0;
+  }
+  /* end second step auth */
+  
+  /* End Two Factor Auth Styles */
+  
+  /* For footer section */
+  
+  footer {
+    background-color: #323234;
+    padding: 46px 110px;
+    margin-top: auto;
+    color: white;
+  }
+  .footer-wrapper {
+    display: flex;
+    justify-content: flex-start;
+    align-items: left;
+  }
+  
+  .content_address {
+    width: 181px;
+    height: 80px;
+    margin-left: 50px;
+  }
+  .content_address p {
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+    text-align: left;
+    color: #ffffffb2;
+  }
+  
+  /* RESPONSIVE QUERIES */
+  @media only screen and (max-width: 390px) {
+    .welcome-msg-wrapper {
+      max-width: 330px !important;
+    }
+    #smallCont {
+      width: 336px;
+      margin-top: 1rem;
+    }
+  
+    #try {
+      display: flex;
+      gap: 0;
+    }
+    .form-header h4 {
+      font-family: New Rail Alphabet B;
+      font-size: 24px;
+    }
+    .login-form-wrapper {
+      max-width: 330px !important;
+    }
+    .form-header {
+      margin-top: 30px;
+      margin-bottom: 10px;
+    }
+    .login-button-wrapper {
+      display: flex;
+      flex-direction: column-reverse;
+      justify-content: left;
+      align-items: flex-start;
+    }
+    .forget-password {
+      margin-bottom: 6px;
+    }
+    .loginReminder {
+      margin-top: 3rem;
+      max-width: 284px;
+    }
+    .companyImages {
+      display: flex;
+      gap: 7.5%;
+      justify-content: flex-start;
+      align-items: flex-start;
+      margin-top: 1.5rem;
+      margin-bottom: 1.5rem;
+      padding: 0 !important;
+    }
+    .privacy-wrapper {
+      max-width: 330px !important;
+    }
+    /* Mobile style for modal */
+    .customized_modal {
+      margin: 0 !important;
+      max-width: 347px;
+    }
+    .modal-body-wrapper p {
+      width: 312px;
+    }
+    .modal-input {
+      max-width: 305px !important;
+    }
+    .custom-modal-footer {
+      display: flex;
+      justify-content: center !important;
+      align-items: center !important;
+      max-width: 335px;
+      padding: 0 !important;
+    }
+    .close-modal {
+      width: 152px;
+    }
+    /* End */
+    /* Two factor first step mobile */
+    .reminder-text {
+      width: 280px;
+    }
+    .reminder-text p {
+      font-size: 12px;
+      font-weight: 300;
+    }
+    .two-factor-auth-options {
+      padding: 0;
+      width: 280px;
+    }
+    /* End Two factor first step mobile */
+    /* Two factor first second mobile */
+    .second-step-buttons {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      width: 300px;
+      margin: 0 !important;
+      padding: 0 !important;
+    }
+    .continue-btn {
+      margin-bottom: 1rem !important;
+    }
+    .resend-btn {
+      width: 150px;
+      margin-left: 0 !important;
+    }
+    .cancel-btn {
+      width: 140px;
+    }
+    /* End Two factor first second mobile */
+    .customized_footer {
+      padding: 1.5rem 1rem;
+    }
+    .footer-wrapper {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+    }
+  }
+  
+  /* Property page styles */
+  .nav-pills .nav-link.active,
+  .nav-pills .show > .nav-link {
+    background-color: rgba(255, 255, 255, 0.08);
+  }
+  .sub-header {
+    background-color: #483a49;
+    border-top: 1px solid white;
+  }
+  .property-listing p {
+    font-family: New Rail Alphabet;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    color: white;
+    padding-top: 10px;
+  }
+  .property-map p {
+    font-family: New Rail Alphabet;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    color: white;
+    padding-top: 10px;
+  }
+  .property-search {
+    position: relative;
+  }
+  
+  .property-search input {
+    border: 2px solid #d6d4d4;
+  }
+  
+  .property-search input:focus {
+    box-shadow: none;
+    border: 2px solid blue;
+  }
+  
+  .result-search {
+    position: relative;
+    width: 600px;
+  }
+  .mobile-wrapper input {
+    width: 655px !important;
+  }
+  .search-prop-result {
+    gap: 10px;
+  }
+  .mobile-spacing-prop-section span {
+    display: none;
+  }
+  
+  /* mobile properties page */
+  @media only screen and (max-width: 390px) {
+    .first-section-wrapper {
+      padding-left: 2px;
+      padding-right: 2px;
+    }
+  
+    .prop-company-input-wrapper {
+      flex-direction: column;
+      justify-content: flex-start;
+      align-items: start !important;
+    }
+    .form-inline .input-group input {
+      width: 335px !important;
+    }
+    .result-search {
+      width: 250px;
+    }
+    .mobile-wrapper {
+      flex-direction: column;
+    }
+    .mobile-wrapper input {
+      width: 225px !important;
+    }
+    .search-prop-result {
+      gap: 30px;
+    }
+    .search-prop-result > *:last-child {
+      justify-content: flex-end;
+    }
+    .mobile-wrapper > *:last-child {
+      display: flex;
+      justify-content: flex-end;
+    }
+    .mobile-spacing-prop-section {
+      margin-top: 10px;
+      gap: 44px;
+    }
+  
+    .mobile-spacing-prop-section span {
+      display: block;
+      font-size: 10px;
+    }
+    .tablet-show-result span {
+      display: none;
+    }
+    .text-results span {
+      display: none;
+    }
+  }
+  /* mobile properties page */
+  
+  /* tablet properties page */
+  @media only screen and (max-width: 768px) {
+    #dateInput {
+      width: 230px;
+      margin-left: 12px;
+    }
+  
+    .col-medium-width {
+      width: 110px;
+    }
+    #smallInput {
+      border-radius: 5px !important;
+      width: 70px;
+      height: 40px;
+      margin-left: 0.8rem;
+      border: 1px solid rgba(72, 58, 73, 0.3);
+      box-sizing: border-box;
+      border-radius: 5px;
+    }
+    #smallInput :placeholder-shown {
+      font-family: New Rail Alphabet;
+      font-style: normal;
+      font-weight: 300;
+      font-size: 10px;
+      line-height: 10px;
+      text-align: center;
+      color: black;
+    }
+  
+    .mobile-wrapper input {
+      width: 225px !important;
+    }
+    #smallBtn {
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+  
+    .form-inline .input-group input {
+      width: 422px;
+    }
+    .mobile-wrapper {
+      margin-top: 10px !important;
+    }
+    .text-results span {
+      display: none;
+    }
+  }
+  /* end tablet properties page */
+  
+  .search-btn {
+    width: 107px;
+    height: 38px;
+    font-size: 14px;
+    font-family: New Rail Alphabet;
+    background-color: #483a49 !important;
+    border: 1px solid #b4b4b4 !important;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+    color: white !important;
+    margin-left: 10px;
+  }
+  .add-btn,
+  .download-btn {
+    width: 75px;
+    height: 38px;
+    font-size: 14px;
+    font-family: New Rail Alphabet;
+    background-color: #483a49 !important;
+    border: 1px solid #b4b4b4 !important;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+    color: white !important;
+    gap: 7;
+  }
+  
+  .inputdata {
+    width: 650px;
+    height: 80%;
+  }
+  .three-lines-wrap {
+    background-color: red;
+    padding: 1px;
+  }
+  
+  /* .search-button {
+    width: 107px;
+    height: 40px;
+    background-color: #483A49 !important;
+    border: none;
+    color: white;
+    border: 1px solid #b4b4b4 !important;
+    font-family: New Rail Alphabet !important;
+    border-radius: 0 !important;
+    margin-left: 1.3rem;
+  } */
+  .text-results {
+    margin: 6px 0;
+  }
+  .text-results span {
+    font-family: New Rail Alphabet;
+    font-weight: 300;
+    font-style: normal;
+    line-height:14px;
+    font-size: 14px;
+  }
+  
+  table.table-bordered > thead > tr > th {
+    border: 1px solid transparent;
+  }
+  
+  .thead-style {
+    background-color: #483a49;
+    color: white;
+    font-family: New Rail Alphabet;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 12px;
+  }
+  
+  .property-address {
+    width: 140px;
+    padding-left: 2px;
+  }
+  .city {
+    width: 145px;
+  }
+  .number-percentage p {
+    background-color: #008000;
+    font-family: New Rail Alphabet !important;
+    width: 60px;
+  }
+  
+  table th,
+  td {
+    border-collapse: collapse;
+  }
+  
+  table tr,
+  td {
+    font-family: New Rail Alphabet;
+    font-size: 14px;
+    
+    font-weight: 300;
+    line-height: 14px;
+    padding: 20px 10px !important;
+  }
+  
+  /* Collapsible Table Design */
+  .dropdown-table-mobile .card,
+  .dropdown-table-mobile .card-header {
+    border-radius: 0;
+  }
+  .dropdown-table-mobile .card-header {
+    background: transparent;
+  }
+  
+  .dropdown-table-mobile .collapsed {
+    background-color: #483a49;
+    color: #ffffff;
+  }
+  
+  /* Table responsive MOBILE and TABLET */
+  
+  /* End Table responsive MOBILE */
+  
+  td:first-child {
+    height: inherit;
+  }
+  
+  /* Table Column for Status */
+  .status-new {
+    background: #007bff;
+    text-align: center;
+    padding: 5px;
+    color: #ffffff;
+  }
+  .status-primary {
+    background: #483a49;
+    text-align: center;
+    padding: 5px;
+    color: #ffffff;
+  }
+  .status-warning {
+    background: #ffc107;
+    text-align: center;
+    padding: 5px;
+    color: #ffffff;
+  }
+  .status-width-100 {
+    max-width: 100px;
+  }
+  .status-width-100px{
+    min-width: 100px;
+  }
+  
+  /* Graph status */
+  .graph-label-links {
+    max-width: 50px;
+    background: #3498db;
+    height: 15px;
+  }
+  .graph-label-success {
+    max-width: 50px;
+    background: #2ecc71;
+    height: 15px;
+  }
+  
+  /* Table image property icon */
+  .img-property-icon {
+    max-height: 58px;
+    margin-right: 20px;
+  }
+  
+  /* Property map */
+  .main-table-map-wrapper {
+    padding: 10px;
+  }
+  .table-map-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+  }
+  .map img {
+    width: 1000px;
+    height: 334px;
+  }
+  @media only screen and (max-width: 360px) {
+    .table-map-wrapper {
+      flex-direction: column;
+    }
+    .map img {
+      width: 100%;
+      height: 150px;
+    }
+  }
+  
+  @media only screen and (max-width: 768px) {
+    .main-table-map-wrapper {
+      padding: 0;
+    }
+    .map img {
+      width: 100%;
+      height: 250px;
+    }
+  }
+  /* End Property map */
+  /* .search button {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    height: 50px;
+    width: 110px;
+    background: blue
+  } */
+  /* End Property page styles */
+  
+  /* END RESPONSIVE QUERIES */
+  /* js default classes */
+  
+  /* SSI REPORT PAGE STYLE */
+  
+  .choosen-address {
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 21.19px;
+    color: #000000;
+  }
+  .custom-col-gap {
+    gap: 90px;
+  
+  }
+  @media only screen and (min-width: 360px) {
+    .custom-col-gap {
+      gap: 1px;
+    }
+  }
+  
+  /* END SSI REPORT PAGE STYLE*/
+  
+  /* FLOOR AND TENANTS STYLE */
+  .manual-factor {
+    background-color: #E9ECEF;
+    border-radius: 5px;
+    width: 100%;
+    padding: 5px;
+  }
+  .manual-factor h5{
+   font-size: 15px;
+  }
+  .address-manual-factor-wrapper {
+    display: flex;
+    gap: 700px;
+  }
+  .report-version-input{
+    width: 310px;
+  }
+  .tenants-search .form-inline input {
+  width: 500px;
+  }
+  
+  @media only screen and (max-width: 768px) {
+    .manual-factor {
+      width: 130px;
+    }
+    .manual-factor h5{
+      font-size: 13px;
+     }
+    .address-manual-factor-wrapper {
+      gap: 50px;
+    }
+  
+    .report-version-input{
+      width: 200px;
+    }
+    .tenants-search .form-inline input {
+      width: 430px;
+      }
+    
+  }
+  
+  @media only screen and (max-width: 360px) {
+    .address-manual-factor-wrapper {
+      gap: 1px;
+    }
+    .report-version-input {
+      width: 120px;
+    }
+  }
+  /* END OF FLOOR AND TENANTS STYLE */
+  #passwordField {
+    display: none;
+  }
+  #firstStep {
+    display: none;
+  }
+  #secondStep {
+    display: none;
+  }
+  
+  /* Account */
+  .card-account-menu {
+    height: 300px;
+    width: 300px;
+    border: 1px solid #f9f9f9;
+  
+    margin: 10%;
+  }
+  .card-account-menu img {
+    max-width: 60px;
+  }
+  
+  .card-shadow-menu {
+    min-height: 250px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    padding: 30px;
+    text-align: center;
+  }
+  
+  .card-shadow-menu h1 {
+    font-size: 35px;
+    font-weight: normal;
+  }
+  
+  /** Forms Header **/
+  .form-header-title {
+    padding: 10px 20px;
+    background: #483a49;
+    color: #ffffff;
+  }
+  
+  .texarea-order-notes {
+    height: 145px;
+  }
+  
+  /* MODAL */
+  .modal.show .modal-dialog {
+    width: 100% !important;
+  }
+  .modal-content {
+    width: 100% !important;
+  }
+  
+  .modal-lg {
+    max-width: 600px !important;
+  }
+  .modal-title,
+  .modal-body form label {
+    font-family: New Rail Alphabet;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 14.13px;
+    color: #000000;
+  }
+  
+  /* Add proper alignment or margin to modal when screen becomes 575px and smaller  */
+  @media only screen and (max-width: 575px) {
+    .modal-dialog{
+      margin: 0;
+    }
+  }
+  
+  @media only screen and (max-width: 768px) {
+    footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+  }
+  
+  /* PROPERTY TEAM MEMBER MODAL FOR EDIT */
+  
+  .edit-member-modal-input {
+    padding: 7px; 
+    width: 250px; 
+    border: 1px solid rgba(72, 58, 73, 0.3);
+  }
+  .required-pass {
+    width: 360px;
+  }
+  .active-user {
+    width: 360px;
+  }
+  .modal-edit-member {
+    padding: 30px 15px;
+  }
+  .btn-save {
+    text-align: center;
+    background-color: #008000;
+    border: 0px;
+    color: white;
+    font-family: New Rail Alphabet;
+    font-size: 12px;
+    font: height 12px;
+    border-radius: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    box-shadow: none;
+    height: 40px;
+  }
+  
+  .member-content {
+    max-width: 800px !important;
+  }
+  
+  .pass-edit-add-btn {
+    position: absolute;
+    right: 0;
+    background-color: #483a49;
+    border: 0px;
+    color: white;
+    font-family: New Rail Alphabet;
+    font-size: 12px;
+    font: height 12px;
+  }
+  
+  .password-verify-semiwrapper {
+    margin-top: 200px;
+  }
+  
+  .require-pass-semiwrapper {
+    margin-top: 80px;
+  }
+  .active-checkbox-spacing {
+    margin-top: 3.2rem;
+  }
+  .edit-member-modal {
+    padding: 0 !important;
+  }
+  .modal-snd-section {
+    margin-top: 8rem;
+  }
+  
+  .btn-remove-user {
+    text-align: center;
+    background-color: #c4354f;
+    border: 0px;
+    color: white;
+    font-family: New Rail Alphabet;
+    font-size: 12px;
+    font: height 12px;
+    border-radius: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    box-shadow: none;
+    height: 40px;
+  }
+  
+  .last-update-spacing {
+    margin-top: 40px;
+  }
+  
+  @media only screen and (max-width: 360px)  {
+    .edit-member-modal-input {
+      width: 200px;
+    }
+    .mobile-first-section-edit-modal {
+      padding: 20px;
+      flex-direction: column;
+    }
+    .mobile-second-section-edit-modal {
+      padding: 20px;
+      flex-direction: column;
+    }
+    .mobile-third-section-edit-modal {
+      padding: 20px;
+      flex-direction: column;
+    }
+  }
+  /* END PROPERTY TEAM MEMBER MODAL FOR EDIT */
+  
+  /* ADD MEMBER MODAL */
+  
+  .addMemberForm {
+    padding: 0 20px;
+  }
+  .add-member-header {
+    background-color: red;
+    text-align: center !important;
+  }
+  /* END MEMBER MODAL */
+  
+  .files input {
+    outline: 2px dashed #92b0b3;
+    outline-offset: -10px;
+    -webkit-transition: outline-offset 0.15s ease-in-out,
+      background-color 0.15s linear;
+    transition: outline-offset 0.15s ease-in-out, background-color 0.15s linear;
+    height: 100px;
+    text-align: center !important;
+    margin: 0;
+    width: 300px !important;
+  }
+  .files input:focus {
+    outline: 2px dashed #92b0b3;
+    outline-offset: -10px;
+    -webkit-transition: outline-offset 0.15s ease-in-out,
+      background-color 0.15s linear;
+    transition: outline-offset 0.15s ease-in-out, background-color 0.15s linear;
+    border: 1px solid #92b0b3;
+  }
+  
+  .color input {
+    background-color: #f1f1f1;
+  }
+  .files:before {
+    position: absolute;
+    bottom: 145px;
+    pointer-events: none;
+    width: 100%;
+    left: 120px;
+    height: 57px;
+    content: "Drag & Drop your file(s) here";
+    display: block;
+    margin: 0 auto;
+    color: #2ea591;
+    font-weight: 600;
+    font-size: 12px;
+    text-transform: normal;
+    text-align: center;
+  }
+  
+  
+  
+  input[type="file"] {
+    opacity: 0;
+  }
+  .dashed-border {
+    border: 1px dashed rgba(72, 58, 73, 0.3);
+    width: 100%;
+  }
+  
+  @media only screen and (max-width: 360px) {
+    .files:before {
+      position: absolute;
+      bottom: 145px;
+      pointer-events: none;
+      width: 100%;
+      left: 1px;
+      height: 57px;
+      content: "Drag & Drop your file(s) here";
+      display: block;
+      margin: 0 auto;
+      color: #2ea591;
+      font-weight: 600;
+      font-size: 12px;
+      text-transform: normal;
+      text-align: center;
+    }
+  }
+  @media only screen and (max-width: 768px) {
+    .files:before {
+      position: absolute;
+      bottom: 145px;
+      pointer-events: none;
+      width: 100%;
+      left: 125px;
+      height: 57px;
+      content: "Drag & Drop your file(s) here";
+      display: block;
+      margin: 0 auto;
+      color: #2ea591;
+      font-weight: 600;
+      font-size: 12px;
+      text-transform: normal;
+      text-align: center;
+    }
+  }
+  
+  /* value opportunity mobile tablet */
+  
+  @media only screen and (max-width: 360px) {
+    .value-opportunity-address h5 {
+      font-size: 14px;
+    }
+    .form-custom-spacing {
+      display: flex !important;
+      justify-content: center !important;
+      align-items: center !important;
+      padding-left: 12px;
+      
+    }
+  
+  
+  } 
+  
+  @media only screen and (max-width: 768px) {
+    .form-custom-spacing {
+      display: flex !important;
+      justify-content: center !important;
+      align-items: center !important;
+      padding-left: 12px;
+    }
+    .value-opportunity-custom-input {
+      width: 98%;
+    }
+  }
+  
+  /* end value opportunity mobile tablet */
+  
+  
+  
+  /* Property Team member style mobile and tablet  */
+  @media only screen and (max-width: 360px) {
+    .choosen-address p {
+      font-size: 14px;
+    }
+    .search-btn-spacing {
+      margin: 0 !important;
+      width: 100%;
+    }
+    .addtest {
+      width: 343px !important;
+    }
+    .mobile-mapping {
+      flex-direction: column;
+    }
+  
+  }
+  
+  /* Property Team member style  mobile and tablet*/
+  
+  
+  /* Category Summary page */
+  .responsive-total-buildings {
+    display: flex;
+    justify-content: flex-end;
+    align-items: left;
+  }
+  @media only screen and (max-width: 360px) {
+  
+    .category-address h5{
+      font-size: 12px;
+    }
+    .responsive-total-buildings {
+      display: flex;
+      align-items: center;
+      justify-content: center !important;
+    }
+  }
+  
+  
+  /* End Category Summary page */
+  
+  .second-mapping, .first-mapping {
+    border: 1px solid black;
+    padding: 10px;
+    height: 500px;
+  }
+  .results {
+    height: 200px;
+    overflow: hidden;
+    overflow-y: scroll;
+  }
+  .properties-list {
+    height: 400px;
+    overflow: hidden;
+    overflow-y: scroll;
+  }
+  
+  
+  /* FOR MOBILE SCROLLABLE */
+  .nav-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .nav-wrapper .item-item button {
+    background-color: transparent;
+    border: 0;
+  }
+  .nav-wrapper li {
+    list-style-type: none;
+  }
+  
+  @media only screen and (max-width: 360px) {
+    .nav-wrapper {
+      max-width: 100%;
+      overflow-x: auto;
+      display: flex !important;
+     
+    }
+    .nav-wrapper::webkit-scrollbar {
+      width: 0;
+    }
+    .nav-wrapper .item-item {
+      min-width: 110px;
+      height: 110px;
+      line-height: 100px;
+    
+    }
+  
+  }
+  
+  /* FOR END MOBILE SCROLLABLE */
+  
+  
+  /* REPORTS STYLE  */
+  .select-activities select{
+    width: 200px;
+    height: 40px;
+  }
+  .reports-billing-select select {
+    width: 150px;
+    height: 40px;
+  }
+  .btn-billing {
+    text-align: center;
+    background-color: #E5E5E5;
+    border: 0px;
+    color: white;
+    font-family: New Rail Alphabet;
+    font-size: 12px;
+    font: height 12px;
+    border-radius: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: none;
+    height: 40px;
+    width: 100px;
+  }
+  
+  
+  /* END REPORTS STYLE  */
+  
+  
+  /* SYSTEM SETTINGS */
+  .settings-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: transparent;
+    border: 1px solid #E5E5E5;
+    width: 300px; 
+    height:160px;
+  
+  }
+  .settings-card i {
+    font-size: 30px;
+  }
+  .settings-card label {
+    text-align: center;
+    font-size: 14px;
+  }
+  
+  .message-wrapper label{
+    width: 200px; 
+    display: inline-block;
+  }
+  /* END SYSTEM SETTINGS */

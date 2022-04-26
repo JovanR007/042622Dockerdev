@@ -1,0 +1,154 @@
+
+<div class="text-results">
+    <span>showing 2 of 2 results</span>
+</div>
+<div class="table-responsive d-none d-lg-block my-2">
+    <!-- Table -->
+    <table class="table table-bordered" id="contentToConvert" >
+        
+        <thead class="thead-style">
+            <tr>
+                <th scope="col">Property <i class="fa fa-sort"></i></th>
+                <th scope="col">Measurement Standard Calculation Method <i class="fa fa-sort"></i></th>
+                <th scope="col">Report Version Report Status<i class="fa fa-sort"></i></th>
+                <th scope="col">Base Client RSF<i class="fa fa-sort"></i></th>
+                <th scope="col">Target Client RSF<i class="fa fa-sort"></i></th>
+                <th scope="col">Factor<i class="fa fa-sort"></i></th>
+                <th scope="col">Based Opportunity RSF / %<i class="fa fa-sort"></i></th>
+                <th scope="col">Current Client RSF<i class="fa fa-sort"></i></th>
+                <th scope="col">Remaining Opportunity RSF / %<i class="fa fa-sort"></i></th>
+                <th scope="col">Tools<i class="fa fa-sort"></i></th>
+                <th scope="col"> <i class="fa fa-filter fa-lg"></i></th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let propertyinfo of propertyInfo">
+                <td class="d-flex flex-lg-row flex-column">
+                    <img src="{{imageService.getImageBaseUrl()+ 'img/icon-building-image 1.png' }}" alt="" class="img-fluid img-property-icon">
+                    <div>
+                        <p class="fw-bold">{{propertyinfo?.address}}</p>
+                        <span>{{propertyinfo?.address}}</span>
+                        <p><small>{{propertyinfo?.city}} {{propertyinfo?.zipcode}}</small></p>
+                        
+                    </div>
+                </td>
+                <td>{{propertyinfo?.mscm}}</td>
+                <td>{{propertyinfo?.report}}</td>
+                <td>{{propertyinfo?.baseclient}}</td>
+                <td>{{propertyinfo?.targetrsf}}</td>
+                <td>{{propertyinfo?.factor}}</td>
+                <td>{{propertyinfo?.baseoppu}}</td>
+                <td>{{propertyinfo?.currentrsf}}</td>
+                <td>{{propertyinfo?.remainingoppu}}</td>
+                <td class="d-flex flex-column align-items-center">
+                    <i class="fa fa-eye fa-lg" style=" position: relative;
+                    bottom: 10px;"(click)="routeReport()"></i>   
+                                                                                
+                    
+                   <img src="{{imageService.getImageBaseUrl()+'img/table-com-logo.png'}}" style="width:21px; height:29.36px">
+                    <!-- <div [ngClass]="tenantshow ? 'show' : 'hide'"> -->
+                    <app-tenant-log [address]="propertyinfo?.address" [city]="propertyinfo?.city" [zipcode]="propertyinfo?.zipcode"></app-tenant-log>
+                <!-- </div> -->
+                </td>
+                <!-- <td class="text-center three-lines-wrap"><i class="fas fa-bars"></i></td> -->
+               <td> <app-property-listing-invite [address]="propertyinfo?.address" [city]="propertyinfo?.city" [zipcode]="propertyinfo?.zipcode"></app-property-listing-invite> 
+              
+            </td>
+            
+             
+            </tr>           
+        </tbody>
+    </table>
+    <!-- EndTable -->
+</div>
+
+
+<div class="accordion dropdown-table-mobile d-lg-none d-lg-block mt-2">
+    <div class="tablet-show-result"><span>showing 30 of 8998 results</span></div>
+    <div class="card">
+      <div class="card-header p-0" id="headingOne" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+        <div class="row p-3">
+            <div class="col-1">
+                <i class="fas fa-plus-circle"></i>
+            </div>
+            <div class="col-6">
+                <b>Property</b>
+            </div>
+            <div class="col-5">
+                <div>
+                    <p class="fw-bold">1391 west side avenue</p>
+                    <span>1391 west side avenue</span>
+                    <p><small>Oakland, CA, 94607, 139WE</small></p>
+                </div>
+            </div>
+        </div>
+      </div>
+  
+      <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+        <div class="card-body p-0">
+            <div class="row p-3">
+                <div class="col-1"></div>
+                <div class="col-6 fw-bold">Measurement Standards Calculation Method</div>
+                <div class="col-5">Building Update / Report Changes</div>
+            </div>
+            <div class="divider"></div>
+            <div class="row p-3">
+                <div class="col-1"></div>
+                <div class="col-6 fw-bold">Report Version<br>Report Status</div>
+                <div class="col-5">11144</div>
+            </div>
+            <div class="divider"></div>
+            <div class="row p-3">
+                <div class="col-1"></div>
+                <div class="col-6 fw-bold">Based Client RSF</div>
+                <div class="col-5">MY ACCESS, INC.</div>
+            </div>
+            <div class="divider"></div>
+            <div class="row p-3">
+                <div class="col-1"></div>
+                <div class="col-6 fw-bold">Target RSF</div>
+                <div class="col-5">646.643</div>
+            </div>
+            <div class="divider"></div>
+            <div class="row p-3">
+                <div class="col-1"></div>
+                <div class="col-6 fw-bold">Factor</div>
+                <div class="col-5">12</div>
+            </div>
+            <div class="divider"></div>
+            <div class="row p-3">
+                <div class="col-1"></div>
+                <div class="col-6 fw-bold">Based Opportunity<br>RSF / %</div>
+                <div class="col-5">4,643<br></div>
+            </div>
+            <div class="divider"></div>
+            <div class="row p-3">
+                <div class="col-1"></div>
+                <div class="col-6 fw-bold">Current Client RSF</div>
+                <div class="col-5">61,781</div>
+            </div>
+            <div class="divider"></div>
+            <div class="row p-3">
+                <div class="col-1"></div>
+                <div class="col-6 fw-bold">Remaining Opportunity<br></div>
+                <div class="col-5">34,862</div>
+            </div>
+            <div class="divider"></div>
+            <div class="row p-3">
+                <div class="col-1"></div>
+                <div class="col-6 fw-bold">Tools</div>
+                <div class="col-5"><i class="fas fa-address-book"></i>
+                    <i class="fas fa-eye"></i>
+                    <img src="assets/images/table-com-logo.png" alt=""></div>
+            </div>
+            <div class="divider"></div>
+            <div class="row p-3">
+                <div class="col-1"></div>
+                <div class="col-6"></div>
+                <div class="col-5"><i class="fas fa-bars"></i></div>
+            </div>
+        </div>
+      </div>
+    </div>
+</div>

@@ -1,0 +1,31 @@
+<nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #483A49;">
+   
+</nav>
+
+
+<div class="test-sub">
+    <ul class="nav-wrapper" id="pills-tab" role="tablist">
+        <li class="nav-item item-item" role="presentation">
+            <button (click)="btnClick()" class="nav-link pt-lg-3" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-proplist"
+                type="button" role="tab" aria-controls="pills-home" aria-selected="true">
+        <!--icon-->
+    <img src="{{imageService.getImageBaseUrl()+'img/icon-company-details.png'}}" class="buttonIconPill"><br>
+            <p id="buttonTextPills" class="mt-lg-3">
+                Property
+                Summary
+            </p>
+           
+            </button> 
+        </li>
+        <li class="nav-item item-item" role="presentation">
+            <button (click)="btnClick1()"class="nav-link pt-lg-3" id="pills-map-tab" data-bs-toggle="pill" data-bs-target="#pills-map"
+                type="button" role="tab" aria-controls="pills-map" aria-selected="false">
+            <img src="{{imageService.getImageBaseUrl()+'img/icon-location-xml-generator.png'}}" class="buttonIconPill"><br>
+            <p id="buttonTextPills" class="mt-lg-3">
+                Property 
+                Map
+            </p>
+            </button>
+        </li>
+    </ul>
+</div>
