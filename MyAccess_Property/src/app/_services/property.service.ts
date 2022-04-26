@@ -8,17 +8,21 @@ import { Tenant } from '../_models/tenant';
 import { TENANT } from '../_data/tenant-log';
 import { TenantSpecific } from '../_models/tenant-specific';
 import { TENANTSPEC } from '../_data/tenant-spec';
+import {HttpClient, HttpHeaders} from '@angular/common/http'
 @Injectable({
   providedIn: 'root'
 })
 export class PropertyService {
-  prop: Property[] = PROPERTY;
+  private apiUrl='http://localhost:5000/property'
+  // prop: Property[] = PROPERTY;
   role: Role[] = ROLE;
   tenant: Tenant[] = TENANT;
   tenantspec: TenantSpecific[] = TENANTSPEC;
-  constructor() { }
+
+  constructor(private http:HttpClient) { }
   getProperty(): Observable<Property[]>{
-    return of (this.prop);
+    // return of (this.prop);
+    return this.http.get<Property[]>(this.apiUrl)
   }
 
   getRole(): Observable<Role[]>{

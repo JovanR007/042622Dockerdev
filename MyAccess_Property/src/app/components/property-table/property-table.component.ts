@@ -6,6 +6,7 @@ import { Route, Router } from '@angular/router';
 import { ImageService } from 'src/app/_services/image.service';
 
 
+
 @Component({
   selector: 'app-property-table',
   templateUrl: './property-table.component.html',
@@ -29,9 +30,6 @@ export class PropertyTableComponent implements OnInit {
       console.log(error);
     }
     );
-    
-  
-    
   }
   
   tenantlogshow(){

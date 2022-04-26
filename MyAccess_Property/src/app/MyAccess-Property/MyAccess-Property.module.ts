@@ -14,6 +14,7 @@ import { PropertyMapComponent } from '../components/property-map/property-map.co
 import { TenantLogComponent } from '../modals/tenant-log/tenant-log.component';
 import { PropertyBuildingReportComponent } from '../modals/property-building-report/property-building-report.component';
 import {PdfViewerModule} from 'ng2-pdf-viewer';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
     declarations: [
@@ -33,6 +34,8 @@ import {PdfViewerModule} from 'ng2-pdf-viewer';
       MyAccessPropertyRoutingModule,
       FontAwesomeModule,
       PdfViewerModule,
+      
+      
     ],
   })
   export class MyAccessPropertyModule { }
