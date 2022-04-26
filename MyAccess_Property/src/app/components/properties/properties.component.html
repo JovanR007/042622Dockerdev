@@ -1,0 +1,42 @@
+<app-property-navbar></app-property-navbar>
+<div class="main-wrapper tab-content container my-5" id="pills-tabContent">
+    <div class="property-listing-wrapper tab-pane fade show active" id="pills-proplist" role="tabpanel" aria-labelledby="pills-proplist-tab">
+
+    <div class="first-section-wrapper">
+
+      <div class="d-flex align-items-center gap-3 prop-company-input-wrapper">
+          <label>Properties</label>
+        <div class="col-md-3">
+
+           <form class="form-inline">
+               <div class="input-group align-items-center">
+                   <input type="search" class="form-control" value="All Companies"/>
+                  
+                </div>
+           </form>
+
+        </div>
+
+      </div>
+
+    
+
+
+        <div class="d-flex justify-content-between align-items-center mt-5 mobile-wrapper">
+
+           <app-search-bar></app-search-bar>
+
+            <div class="d-flex align-items-end mobile-spacing-prop-section">
+                    <span>showing 30 of 2998 results</span>
+                    <div>     
+                        <app-download></app-download>
+                    </div>
+               
+            </div>
+
+        </div>
+
+    </div>
+    <app-property-table></app-property-table>
+    </div>
+</div>

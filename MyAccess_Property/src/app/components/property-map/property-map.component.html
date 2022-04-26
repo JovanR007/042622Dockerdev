@@ -1,0 +1,58 @@
+<app-property-navbar></app-property-navbar>
+<!-- <div #map style="width:100%;height:400px"><p>property-map worksaaaa!</p></div> -->
+<div class="container">
+
+    <div class="main-table-map-wrapper">
+    <div class="first-section-wrapper">
+
+        <div class="d-flex align-items-center gap-3 prop-company-input-wrapper" style="margin-left:-200px; margin-top:-55px;">
+            <label>Properties</label>
+          <div class="col-md-3">
+
+           <form class="form-inline">
+               <div class="input-group align-items-center">
+                   <input type="search" class="form-control" value="All Companies"/>
+                   <i class="fa fa-times input-icon"></i>
+                </div>
+           </form>
+
+        </div>
+
+        
+
+   
+    <!-- EndShore result text -->
+
+        <div class="table-map-wrapper gap-3">
+            <div class="text-results" style="margin-top:210px; margin-left:-475px;">
+                <span>showing 2 of 2 results</span>
+            </div>
+            <!-- Table -->
+            <table class="table table-bordered" style="position:absolute; left:123px; width:255px; height:47px; top:417px;">
+                        
+                <thead class="thead-style">
+                    <tr>
+                        <th scope="col">Property <i class="fa fa-sort"></i></th>  
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let propertyinfo of propertyInfo">
+                        <td class="d-flex flex-lg-row">
+                            <img src="{{imageService.getImageBaseUrl()+'img/icon-building-image 1.png'}}" alt="" class="img-fluid img-property-icon">
+                            <div>
+                                <p class="fw-bold">{{propertyinfo?.address}}</p>
+                                <span>{{propertyinfo?.address}}</span>
+                                <p><small>{{propertyinfo?.city}} {{propertyinfo?.zipcode}}</small></p>
+                                
+                            </div>
+                        </td>
+                    </tr>
+                
+                    </tbody>
+                </table>
+                <div class="full" id="map">
+
+                </div>
+            </div>
+
+    

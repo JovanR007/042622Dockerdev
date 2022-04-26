@@ -1,0 +1,60 @@
+<!-- <div class="actions">
+    <button class="export-button">
+        Export to PDF
+    </button>
+</div> -->
+<app-property-navbar></app-property-navbar>
+
+    <img src="{{imageService.getImageBaseUrl()+'img/back-icon 1.png'}}" (click)="routeProp()"style="margin-left:1550px; width:37px; height:24; position:absolute; top:215px; left:10px;"><br>
+            <p  (click)="routeProp()"style="position: absolute;
+            width: 195px;
+            height: 14px;
+            left: 1610.58px;
+            font-family: 'New Rail Alphabet';
+            top:220px;       
+font-style: normal;
+font-weight: light;
+font-size: 14px;
+line-height: 14px;
+text-align: center;
+color: #000000;">
+               Back To Account Landing Page
+            </p>
+           
+            
+<button type="button" (click)="open(content)" class="btn btn-primary download-icon" style="margin-left:1550px; width:107.85px; height:40px; position:absolute; ">  <img src="{{imageService.getImageBaseUrl()+'img/download.png'}}" alt=""></button>
+<button type="button" (click)="open(content)" class="btn btn-primary download-icon" style="margin-left:1700px; width:107.85px; height:40px; position:absolute; ">  Update</button>
+<div class="content" role="main" style="
+margin-left:90px; margin-top: 250px; margin-top:150px;">
+    <div #viewer class="webviewer"></div>
+</div>
+
+<ng-template #content let-modal>
+    <div class="modal-header">
+      <h4 class="modal-title" id="modal-basic-title" style="font-family: 'New Rail Alphabet';
+      font-style: normal;
+      font-weight: 300;
+      font-size: 21px;
+      line-height: 21px;
+      
+      color: #000000;">Update Document</h4>
+      <button type="button" class="btn-close" aria-label="Close" (click)="modal.dismiss('Cross click')"></button>
+    </div>
+    
+    <div class="modal-body">
+      
+      
+            <button type="button" class="btn btn-primary download-icon" style="width:150px;">Update</button>
+            <button type="button" class="btn btn-primary download-icon " (click)="modal.dismiss('Cross click')" style="margin-left:10px; width:150px;">Close</button>
+    </div>
+    
+  </ng-template>
+  
+ 
+ 
+  
+  
+ 
+       
+        
+  <pre>{{ closeResult }}</pre>
