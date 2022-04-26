@@ -8,7 +8,8 @@ services:
       - '3004:3004'
     volumes:
       - ./MyAccess_Property/src:/frontend/src
-  
+    depends_on:
+      - docker-backend
 
     
   docker-backend: 
@@ -19,5 +20,6 @@ services:
       - '5000:5000'
     volumes:
       - ./json-server:/backend/
-    
+    depends_on:
+      - docker-frontend
      
