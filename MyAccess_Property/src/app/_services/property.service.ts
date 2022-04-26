@@ -9,11 +9,13 @@ import { TENANT } from '../_data/tenant-log';
 import { TenantSpecific } from '../_models/tenant-specific';
 import { TENANTSPEC } from '../_data/tenant-spec';
 import {HttpClient, HttpHeaders} from '@angular/common/http'
+import { environment } from 'src/environments/environment';
 @Injectable({
   providedIn: 'root'
 })
 export class PropertyService {
-  private apiUrl='http://localhost:5000/property'
+  // private apiUrl='http://localhost:5000/property'
+  private apiUrl=environment.apiUrl;
   // prop: Property[] = PROPERTY;
   role: Role[] = ROLE;
   tenant: Tenant[] = TENANT;
